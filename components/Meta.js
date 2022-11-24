@@ -74,7 +74,7 @@ export default function Meta(props) {
         href="/assets/favicon-16x16.png"
       />
       <link rel="manifest" href="/manifest.json" />
-      <link rel="icon" href="/assets/icon.ico" />
+      <link rel="icon" href="/favicon.ico" />
       <meta name="msapplication-TileColor" content="#ffffff" />
       <meta
         name="msapplication-TileImage"
