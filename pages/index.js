@@ -6,7 +6,7 @@ import Footer from "../components/Footer";
 export default function Home() {
   return (
     <div>
-      <Meta title="Freshwater Fish" />
+      <Meta title="House Plants" />
 
       <Header />
 

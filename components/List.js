@@ -13,13 +13,16 @@ export default function List() {
   const [data, setData] = useState(null);
 
   useEffect(() => {
-    fetch(
-      "https://list-of-freshwater-aquarium-fish-species.p.rapidapi.com/species",
+    setTimeout(() => {
+      fetch(
+      "https://house-plants2.p.rapidapi.com/",
       options
     )
       .then((response) => response.json())
       .then((response) => setData(response))
       .catch((err) => console.error(err));
+    }, 250);
+    
   });
 
   return (

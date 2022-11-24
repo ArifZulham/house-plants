@@ -16,7 +16,7 @@ export default function Home() {
 
   return (
     <div>
-      <Meta title="Freshwater Fish: Detail" />
+      <Meta title="House Plants: Detail" />
 
       <Header />
 
@@ -27,16 +27,16 @@ export default function Home() {
             alt="cover"
             width="720"
             height="600"
-            src={data ? data.imageURL : ""}
+            src={data ? data.img : ""}
           />
           <div class="text-center lg:w-2/3 w-full">
             <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">
-              {data ? data.name : ""}
+              {data ? data.Categories : ""}
             </h1>
             <p class="mb-8 leading-relaxed">
-              {`${data ? data.name : ""} taxonomy ${
+              {`${data ? data.Watering : ""} Watering ${
                 data ? data.taxonomy : ""
-              } based in ${data ? data.about : ""}. temprange ${
+              } based in ${data ? data.Family : ""}. Family ${
                 data ? data.temprange : ""
               }`}
             </p>

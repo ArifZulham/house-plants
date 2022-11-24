@@ -2,7 +2,7 @@ import Header from "../components/Header";
 import Meta from "../components/Meta";
 import Footer from "../components/Footer";
 import Image from "next/image";
-import pic1 from "../public/assets/rapidapilogo.png";
+import pic1 from "../public/assets/apple-icon.png";
 import pic2 from "../public/assets/logoikan.png";
 import pic3 from "../public/assets/tailwindlogo.png";
 import pic4 from "../public/assets/githublogo.png";

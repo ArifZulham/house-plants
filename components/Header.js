@@ -1,6 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
-import icon from "../public/assets/icon.webp";
+import icon from "../public/assets/apple-icon.png";
 
 export default function Header() {
   return (
@@ -26,7 +26,7 @@ export default function Header() {
         </nav>
         <a class="flex order-first lg:order-none lg:w-1/5 title-font font-medium items-center text-gray-900 lg:items-center lg:justify-center mb-4 md:mb-0">
           <Image alt="icon" src={icon} width="40" height="40" />
-          <span class="ml-3 text-xl">Freshwater Fish</span>
+          <span class="ml-3 text-xl">House Plants</span>
         </a>
         <div class="lg:w-2/5 inline-flex lg:justify-end ml-5 lg:ml-0"></div>
       </div>

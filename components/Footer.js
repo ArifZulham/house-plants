@@ -5,19 +5,19 @@ export default function Footer() {
     <footer class="sticky bottom-0 text-gray-600 body-font z-50 bg-white">
       <div class="container px-5 py-2 mx-auto flex items-center sm:flex-row flex-col">
         <p class="text-sm text-gray-500 sm:py-2 sm:mt-0 mt-4">
-          © 2022 Freshwater Fish —
+          © 2022 House Plants —
           <Link
-            href="https://www.instagram.com/ida.bagus.putra"
+            href="https://www.instagram.com/arif_zulham10"
             class="text-gray-600 ml-1"
             rel="noopener noreferrer"
             target="_blank"
           >
-            @ida.bagus.putra
+            @arif_zulham10
           </Link>
         </p>
         <span class="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
           <Link
-            href="https://www.instagram.com/ida.bagus.putra"
+            href="https://www.instagram.com/arif_zulham10"
             class="ml-3 text-gray-500"
           >
             <svg
