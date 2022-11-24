@@ -29,26 +29,18 @@ export default function Aboutus() {
                 </div>
                 <div class="flex flex-col items-center text-center justify-center">
                   <h2 class="font-medium title-font mt-4 text-gray-900 text-lg">
-                    Phoebe Caulfield
+                  Arif Zulham Bagaskara
                   </h2>
                   <div class="w-12 h-1 bg-indigo-500 rounded mt-2 mb-4"></div>
                   <p class="text-base">
-                    Raclette knausgaard hella meggs normcore williamsburg enamel
-                    pin sartorial venmo tbh hot chicken gentrify portland.
+                    Hi, I'm Arif Zulham Bagaskara I Have interest in UI/UX design and gardening
                   </p>
                 </div>
               </div>
               <div class="sm:w-2/3 sm:pl-8 sm:py-8 sm:border-l border-gray-200 sm:border-t-0 border-t mt-4 pt-4 sm:mt-0 text-center sm:text-left">
                 <p class="leading-relaxed text-lg mb-4">
-                  Meggings portland fingerstache lyft, post-ironic fixie man bun
-                  banh mi umami everyday carry hexagon locavore direct trade art
-                  party. Locavore small batch listicle gastropub farm-to-table
-                  lumbersexual salvia messenger bag. Coloring book flannel
-                  truffaut craft beer drinking vinegar sartorial, disrupt
-                  fashion axe normcore meh butcher. Portland 90's scenester
-                  vexillologist forage post-ironic asymmetrical, chartreuse
-                  disrupt butcher paleo intelligentsia pabst before they sold
-                  out four loko. 3 wolf moon brooklyn.
+                house-plant app is about how to decorate a house with a proper technique and with good angle. 
+                our application helps you to decorate your home with plants with an interesting point of view and placement  
                 </p>
                 <a class="text-indigo-500 inline-flex items-center">
                   Learn More
